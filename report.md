@@ -89,7 +89,9 @@ Lopuksi törmäsin [Tommi Muhosen projektitöhön](https://tommimuhonen334781833
 
 Valitsin itse testattavaksi työksi Tommi Muhosen projektin, koska siinä on hyviä perusasetuksia, joista on hyötyä.
 
-Aloitin 
+Aloitin tekemällä saltin rakenteen Tommi Muhosen tree kuvankaappauksen avulla. 
+
+![kuva13](/images/kuva13.png)
 
 ## Lähteet
 
