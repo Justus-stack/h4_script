@@ -93,7 +93,7 @@ Aloitin tekemällä saltin rakenteen Tommi Muhosen tree kuvankaappauksen avulla.
 
 ![kuva13](/images/kuva13.png)
 
-Päätin keskittyä ufw konfiguroimiseen. Tein init.sls tiedoston ufw kansioon. Nappasain init.sls tiedoston Tommin raportissa olleesta kuvankaappauksesta:
+Päätin keskittyä ufw konfiguroimiseen. Tein init.sls tiedoston ufw kansioon. Nappasin init.sls tiedoston Tommin raportissa olleesta kuvankaappauksesta:
 
 ![kuva18](/images/kuva18.png)
 
