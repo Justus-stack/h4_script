@@ -71,7 +71,11 @@ Aloitin tehtävän tekemisen luomalla salttiin kansion bins. Tein kansiion toise
 
 ![kuva11](/images/kuva11.png)
 
-//tee loppuun. 
+Laitoin alunperin vain mode: init.sls tiedostoon ja salt herjasi, että file.recurse vaatii file_mode: syntaksin. Laitoin seuraavaksi bin kansioon aiemmissa tehtävissä luodut tekstitiedostot ja kävin poistamassa ne /usr/local/bin kansiosta. Ajoin tilan:
+
+![kuva12](/images/kuva12.png)
+
+Komennot olivat tullut takaisin /usr/local/bin kansioon. Komennot myös toimivat.
 
 ## e) Etsi loppuprojekteja ja testaa niistä yhtä.
 
