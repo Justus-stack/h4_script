@@ -35,6 +35,20 @@ Kokeilin orjalla komentoa ja tuli sama tulos. Kuvankaappaus vielä /usr/local/bi
 
 
 
-## b) whatsup.sh. Tee järjestelmään uusi komento, joka kertoo ajankohtaisia tietoja.
+## b) Tee järjestelmään uusi komento, joka kertoo ajankohtaisia tietoja.
 
-//todo lisää tekstiä
+Tein tehtävän samaa kaavaa noudattamalla kuin edellisessä tehtävässä. tein siis tekstitiedoston, jonka nimi on moikka ja laitoin sen sisälle seuraavan sisällön: 
+
+![kuva7](/images/kuva7.png)
+
+Annoin oikeudet tiedostolle ja kopion sen /usr/local/bin kansioon. testasin toimivuutta ja sain oikean tulosteen. 
+
+Tein sen jälkeen salttiin taas kansion whatsup ja sinne init.sls tiedoston. Kopion source tiedoston salttiin ja ajoin tilan. Succeeded. 
+
+Testasin vielä komentoa orjalla. 
+
+![kuva8](/images/kuva8.png)
+
+## c) Tee järjestelmään uusi komento pythonilla
+
+Tein uuden tiedoston nimeltä heipython. 
