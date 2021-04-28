@@ -41,7 +41,7 @@ Tein tehtävän samaa kaavaa noudattamalla kuin edellisessä tehtävässä. tein
 
 ![kuva7](/images/kuva7.png)
 
-Curl komennon löysin ![netistä](https://ostechnix.com/check-weather-details-command-line-linux/).
+Curl komennon löysin [netistä](https://ostechnix.com/check-weather-details-command-line-linux/).
 
 Annoin oikeudet tiedostolle ja kopion sen /usr/local/bin kansioon. testasin toimivuutta ja sain oikean tulosteen. 
 
