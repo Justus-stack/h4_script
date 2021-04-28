@@ -84,3 +84,9 @@ Komennot olivat tullut takaisin /usr/local/bin kansioon. Komennot myös toimivat
 ## Lähteet
 
 Ostechnix 2016. How to check weather details from command line in linux. luettavissa: https://ostechnix.com/check-weather-details-command-line-linux/
+
+https://github.com/bgj377/Lychee-projekti
+
+https://koodiprojektit.wordpress.com/h7-oma-projekti/
+
+https://tommimuhonen334781833.wordpress.com/palvelinten-hallinta-harjoitus-7/
