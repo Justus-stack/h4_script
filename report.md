@@ -93,6 +93,24 @@ Aloitin tekemällä saltin rakenteen Tommi Muhosen tree kuvankaappauksen avulla.
 
 ![kuva13](/images/kuva13.png)
 
+Päätin keskittyä ufw konfiguroimiseen. Tein init.sls tiedoston ufw kansioon. Nappasain init.sls tiedoston Tommin raportissa olleesta kuvankaappauksesta:
+
+![kuva18](/images/kuva18.png)
+
+Testasin ajamalla tilan kahteen kertaan, joten näen, että toimiko idempotenssi. 
+
+![kuva15](/images/kuva15.png)
+
+![kuva16](/images/kuva16.png)
+
+![kuva17](/images/kuva17.png)
+
+Idempotenssi toimii testataan vielä ovatko portit auki
+
+![kuva14](/images/kuva14.png)
+
+ufw on päällä, portit auki ja idempotenssi toimii.
+
 ## Lähteet
 
 Ostechnix 2016. How to check weather details from command line in linux. luettavissa: https://ostechnix.com/check-weather-details-command-line-linux/
