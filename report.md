@@ -29,7 +29,11 @@ Toimii. Tein seuraavaksi salttiin kansion huomenta ja sinne init.sls tiedoston. 
 
 ![kuva5](/images/kuva5.png)
 
-Kokeilin orjalla komentoa ja tuli sama tulos. 
+Kokeilin orjalla komentoa ja tuli sama tulos. Kuvankaappaus vielä /usr/local/bin kansiosta
+
+![kuva6](/images/kuva6.png)
+
+
 
 ## b) whatsup.sh. Tee järjestelmään uusi komento, joka kertoo ajankohtaisia tietoja.
 
