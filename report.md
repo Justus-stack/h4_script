@@ -61,9 +61,22 @@ Päivitin tiedoston oikeudet:
 
 kopioin tiedoston /usr/local/bin kansioon ja kokeilin sitä. 
 
-![kuva10](/images.kuva10.png)
+![kuva10](/images/kuva10.png)
 
 Tein init.sls tiedoston samalla tavalla kuin a-kohdassa. ajoin tilan saltilla, joka onnistui. kokeilin vielä komentoa, joka toimi.
 
 ## d) Tee kansio, josta jokainen skripti kopiotuu orjille
 
+Aloitin tehtävän tekemisen luomalla salttiin kansion bins. Tein kansiion toisen kansion bin ja init.sls tiedoston. init.sls tiedoston sisältö. 
+
+![kuva11](/images/kuva11.png)
+
+//tee loppuun. 
+
+## e) Etsi loppuprojekteja ja testaa niistä yhtä.
+
+//todo lisää tekstiä
+
+## Lähteet
+
+Ostechnix 2016. How to check weather details from command line in linux. luettavissa: https://ostechnix.com/check-weather-details-command-line-linux/
