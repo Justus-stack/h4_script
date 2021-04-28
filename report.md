@@ -41,6 +41,8 @@ Tein tehtävän samaa kaavaa noudattamalla kuin edellisessä tehtävässä. tein
 
 ![kuva7](/images/kuva7.png)
 
+Curl komennon löysin ![netistä](https://ostechnix.com/check-weather-details-command-line-linux/).
+
 Annoin oikeudet tiedostolle ja kopion sen /usr/local/bin kansioon. testasin toimivuutta ja sain oikean tulosteen. 
 
 Tein sen jälkeen salttiin taas kansion whatsup ja sinne init.sls tiedoston. Kopion source tiedoston salttiin ja ajoin tilan. Succeeded. 
