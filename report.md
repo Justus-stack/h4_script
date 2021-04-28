@@ -51,4 +51,19 @@ Testasin vielä komentoa orjalla.
 
 ## c) Tee järjestelmään uusi komento pythonilla
 
-Tein uuden tiedoston nimeltä heipython. 
+Tein uuden tiedoston nimeltä heipython. Python täytyy kirjoittaa python koodikielellä. Python skriptissä #! jälkeen laitetaan bashin sijaan python3
+
+![kuva9](/images/kuva9.png)
+
+Päivitin tiedoston oikeudet:
+
+	sudo chmod 755 heipython
+
+kopioin tiedoston /usr/local/bin kansioon ja kokeilin sitä. 
+
+![kuva10](/images.kuva10.png)
+
+Tein init.sls tiedoston samalla tavalla kuin a-kohdassa. ajoin tilan saltilla, joka onnistui. kokeilin vielä komentoa, joka toimi.
+
+## d) Tee kansio, josta jokainen skripti kopiotuu orjille
+
