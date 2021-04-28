@@ -81,7 +81,15 @@ Komennot olivat tullut takaisin /usr/local/bin kansioon. Komennot myös toimivat
 
 ## e) Etsi loppuprojekteja ja testaa niistä yhtä.
 
-//todo lisää tekstiä
+Ensimmäinen loppuprojekti, jota tutkiskelin oli [Arne Bäcklundin projekti](https://github.com/bgj377/Lychee-projekti) moduulista, joka helpottaa lychee sovelluksen käyttöä.
+
+Seuraavaksi katselin [Anders Gustav Lindbladin projektityötä.](https://koodiprojektit.wordpress.com/h7-oma-projekti/) Projektityössä oli tarkoituksena tehdä moduuli, joka asentaa lamp stackin osat, luo skriptejä ja ajaa ne minioneille. 
+
+Lopuksi törmäsin [Tommi Muhosen projektitöhön](https://tommimuhonen334781833.wordpress.com/palvelinten-hallinta-harjoitus-7/), jossa oli tarkoituksena tehdä moduuli, joka konffaa ufw, apache ja ssh sovellukset. 
+
+Valitsin itse testattavaksi työksi Tommi Muhosen projektin, koska siinä on hyviä perusasetuksia, joista on hyötyä.
+
+Aloitin 
 
 ## Lähteet
 
